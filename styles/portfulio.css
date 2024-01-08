@@ -15,7 +15,7 @@ body {
    width: 1320px;
    height: 600px;
    color: #070211, 
-   
+    
 }
 
 .heading-text{
@@ -64,7 +64,46 @@ body {
     
     }
 .new-year-img{
-    width: 600px;
-     height: 400px;
+    width: 300px;
+     height: 00px;
  
+}
+/* banner-area style */
+.banner-area{
+    background-image: url(../img/Vectorrr.png);
+    
+    height: 500px;
+     background-size: cover;
+     background-repeat: no-repeat;
+     /* margin-left: 250px; */
+background-color: rgb(27, 12, 12)  #070211 0%,;
+
+}
+
+.banner-pragraph{
+    color: #FFF;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    width: 542px;
+  
+    padding-top: 150px;
+    margin-left: 200px;
+   
+   
+}
+.new-pragraph-2{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    width: 600px;
+margin-left: 200px;
+
+}
+.button{
+    background-color: #FD6F00;
+    margin-left: 200px;
+    margin-top: 10px;
+    padding: 5px;
 }
