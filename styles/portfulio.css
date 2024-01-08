@@ -301,3 +301,56 @@ background-color: #FFF;
     border-radius: 50px;
     background-color: #F00;
 }
+/* footer styles */
+.footer{
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.fotter-1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    width: 220px;
+    margin: 40px;
+    
+}
+.fast-text{
+    color: #FFF;
+   
+    font-size: 10px;
+    font-weight: 400;
+    width: 220px;
+    margin: 40px 40px 0px 40px;
+    padding: 5px;  
+}
+
+.second-text{
+    color: #FFF;
+    
+    font-size: 10px;
+    font-weight: 400;
+    width: 220px;
+    margin: 5px 10px 10px 15px;
+
+}
+
+.social-photo{
+    display: flex;
+    width: 34px;
+    height: 34px;
+    margin-top: 200px;
+    margin-right: 150px;
+
+}
+.fb{
+    padding: 5px;
+}
+.copy{
+    color: white;
+} 
