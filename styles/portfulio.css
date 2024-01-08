@@ -211,8 +211,8 @@ flex-shrink: 0;
 
 .sale-section{
     text-align: center;
-    margin: auto;
-    width: 800px;
+    margin:30px auto;
+    width:  800px;
     height: 400px;
     background-image: url(../img/Rectangle\ 1.png);
     background-repeat: no-repeat;
@@ -232,5 +232,29 @@ span{
 .Rectangle{
     margin-top: 250px;
     width: 800px;
-    height: 90px;
+    height: 60px;
+   
 }
+
+/* Our Awesome Portfolio section start */
+
+.awesome-portfolio{
+    margin:10px auto;
+    width:  800px;
+
+  
+}
+.text{
+    color: #F00;
+    font-size: 15px;
+}
+h3{
+    font-family: Merriweather;
+}
+.p-text{
+    color: rgba(7, 2, 17, 0.60);
+    width: 600px;
+    height: 10px;
+}
+
+
