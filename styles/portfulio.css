@@ -257,4 +257,47 @@ h3{
     height: 10px;
 }
 
+ /* subcriber section style */
 
+.subcriber{
+    margin: 40px auto;
+    width: 800px;
+    text-align: center;
+    background-color: #FFEDED;
+}
+
+.gmail{
+    margin-top:40px;
+    width: 100px;
+    height: 75px;
+   
+}
+.subcriber-text{
+    color: #070211;
+font-family: Merriweather;
+font-size: 28px;
+font-weight: 900;
+}
+.text-aria{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+     width: 520px;
+     margin-left:80px;
+}
+.input{
+    width: 548px;
+    height: 42px;
+    margin-bottom: 20px;
+    margin: 5px;
+border-radius: 50px;
+background-color: #FFF;
+
+}
+.lst-btn{
+    width: 80px;
+    height: 42px;
+    border-radius: 50px;
+    background-color: #F00;
+}
